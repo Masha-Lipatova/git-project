@@ -1,0 +1,24 @@
+.container {
+    background-color: #FACBB0;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar {
+    width: 700px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: underline overline black;
+    text-decoration-skip-ink: none;
+    text-emphasis-color: black;
+    
+  }
+  
+  
+  .link{
+  color: #000;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  }
